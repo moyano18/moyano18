@@ -5,7 +5,7 @@ Actualmente estoy estudiando la carrera de Técnico Superior en Desarrollo de So
 En este espacio comparto proyectos que realicé durante mi aprendizaje, utilizando principalmente HTML y CSS.
 
 - 📍 Estoy radicado en Argentina
-- ✉️ Puedes contactarme en rubenmoyano_2000@hotmail.com
+- ✉️ Puedes contactarme en [rubenmoyano_2000@hotmail.com](mailto:rubenmoyano_2000@hotmail.com)
 - 📚 Estoy aprendiendo Fundamentos de desarrollo web y lógica de programación.
 - ✨ Estoy abierto a colaborar en proyectos sencillos o educativos donde pueda seguir aprendiendo.
 - 💡 Me gusta organizar mis proyectos de forma clara y aprender con cada nuevo desafío.
@@ -41,4 +41,12 @@ En este espacio comparto proyectos que realicé durante mi aprendizaje, utilizan
             <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" alt="Instagram" title="Instagram" />
         </picture>
     </a>
+</p>
+
+### Repositorios destacados
+
+<p align="left">
+  <a href="https://github.com/moyano18/veterinaria-online">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=moyano18&repo=veterinaria-online&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=es" />
+  </a>
 </p>
