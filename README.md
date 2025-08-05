@@ -5,12 +5,5 @@
 ### Redes sociales
 
 <p align="left"> <a href="https://www.github.com/https://github.com/moyano18" target="_blank" rel="noreferrer"> <picture> <source media="(prefiere esquema de color: oscuro)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefiere esquema de color: claro)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" altura="32" alt="GitHub" título="GitHub" /> </imagen> </a> </p>
-### Apóyame
-
-<ul style="tipo-de-estilo-de-lista: ninguno; margen: 0;">
-
-<li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.buymeacoffee.com/ruben"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a></li>
-
-<li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.ko-fi.com/ruben"><img src="https://storage.ko-fi.com/cdn/kofi2.png?v=3" width="150"/></a></li>
 
 </ul>
