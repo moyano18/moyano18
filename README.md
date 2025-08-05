@@ -1,3 +1,17 @@
+# Hola 👋 Mi nombre es Rubén Moyano
+Estudiante de desarrollo web
+
+Actualmente estoy estudiando la carrera de Técnico Superior en Desarrollo de Software.
+En este espacio comparto proyectos que realicé durante mi aprendizaje, utilizando principalmente HTML y CSS.
+
+- Estoy radicada en Argentina
+- Puedes contactarme en rubenmoyano_2000@hotmail.com
+- Estoy aprendiendo Fundamentos de desarrollo web y lógica de programación.
+- Estoy abierto a colaborar en proyectos sencillos o educativos donde pueda seguir aprendiendo.
+- Me gusta organizar mis proyectos de forma clara y aprender con cada nuevo desafío.
+
+### Habilidades:
+
 <p align="left">
     <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" alt="C++" title="C++" width="36" height="36" /></a>
     <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a>
@@ -20,11 +34,11 @@
             <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" />
         </picture>
     </a>
-    <a href="https://www.instagram.com/ruben_moyano_2?utm_source=qr&igsh=MTYycTZ3OG9uYXB3cg==" target="_blank" rel="noreferrer">
-        <picture>
-            <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram-dark.svg" />
-            <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" />
-            <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" alt="Instagram" title="Instagram" />
-        </picture>
-    </a>
+</p>
+
+### Apoyo
+
+<p align="left">
+    <a href="https://www.buymeacoffee.com/ruben"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150" alt="Buy Me A Coffee" /></a>
+    <a href="https://www.ko-fi.com/ruben"><img src="https://storage.ko-fi.com/cdn/kofi2.png?v=3" width="150" alt="Ko-fi" /></a>
 </p>
