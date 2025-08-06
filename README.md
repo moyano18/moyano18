@@ -38,7 +38,6 @@ En este espacio comparto proyectos que realicé durante mi aprendizaje, utilizan
     <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored-dark.svg" alt="Servicios web de Amazon" title="Servicios web de Amazon" width="36" height="36" /></a>
 </p>
 
-
 ### Redes sociales
 
 <p align="left">
