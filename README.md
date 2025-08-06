@@ -28,7 +28,7 @@ En este espacio comparto proyectos que realicé durante mi aprendizaje, utilizan
 #### Bases de datos
 <p align="left">
     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" alt="MySQL" title="MySQL" width="36" height="36" /></a>
-    <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sqlserver-colored.svg" alt="SQL" title="SQL" width="36" height="36" /></a>
+    <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/microsoftsqlserver-colored.svg" alt="SQL Server" title="SQL Server" width="36" height="36" /></a>
 </p>
 
 #### Herramientas y servicios
